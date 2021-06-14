@@ -4,11 +4,11 @@ body {
 .cover {
   height:400px;
   background-image:url(https://cdn.glitch.com/364ab61d-fd8b-4416-8571-5f3d3bd59d1f%2Frsz_isaac-smith-at77q0njnt0-unsplash.jpg?v=1623699541636);
-  color:brown;
+  color:white;
   background-size: cover;
   background-position:center;
-  backgroud-color:rgba(0,0,0,0.5);
-  bakground-blend-mode: darken;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode: darken;
   
   
 }
