@@ -3,8 +3,12 @@ body {
 }
 .cover {
   height:400px;
-  background-color:red;
+  background-image:url(https://cdn.glitch.com/364ab61d-fd8b-4416-8571-5f3d3bd59d1f%2Frsz_luke-chesser-jkutrj4vk00-unsplash.jpg?v=1623699104730);
   color:white;
+  background-size: cover;
+  backgroud-position:center;
+  backgroud-color:rgba(0,0,0,0.5);
+  bakground-blend-mode:darken;
   
   
 }
