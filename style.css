@@ -1,8 +1,10 @@
 body {
   margin: 0en;
 }
-.cover{
+.cover {
   height:400px;
-  backgroud-color:red;
+  background-color:red;
+  color:white;
+  
   
 }
