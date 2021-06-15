@@ -2,6 +2,11 @@ body {
   margin: 0en;
   font-family: 'Noto Sans', sans-serif;
 }
+
+h1,h2,h3,h4,h5{
+  font-family: 'Fjalla One', sans-serif;
+}
+
 .cover {
   height:400px;
   background-image:url(https://cdn.glitch.com/364ab61d-fd8b-4416-8571-5f3d3bd59d1f%2Frsz_isaac-smith-at77q0njnt0-unsplash.jpg?v=1623699541636);
